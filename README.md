@@ -6,7 +6,7 @@ Aplicativo de **gerenciamento de vendas** desenvolvido com **React Native** e **
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sales-manager-app.git
+   [git clone https://github.com/seu-usuario/sales-manager-app.git](https://github.com/CristopherMartarello/sales-manager-native.git)
    cd sales-manager-app
    ```
 
